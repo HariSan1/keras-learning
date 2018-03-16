@@ -1,3 +1,4 @@
+keras-mnist-fashion-ds-2.py
 program uses the MNIST fashion datasetto sort through thousands of images of clothing types (jackets, shirts, pants, dresses etc.)
 and accessories (handbags, shoes etc.) to classify the images into their proper categories; 
 the program also saves the model and then re-uses it. 
